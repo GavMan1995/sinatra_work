@@ -9,7 +9,24 @@ body {
 }
 a {
   color: #2f7c42;
+  font-size: 60px;
+  margin-left: 20%;
+}
+
+.link {
+  margin-left: 10%;
 }
 a:hover {
   color: #80e8a9;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  font-size: 50px;
+  color: #a9c4b6;
+  text-align: center;
+
 }
