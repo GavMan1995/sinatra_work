@@ -10,12 +10,9 @@ body {
 a {
   color: #2f7c42;
   font-size: 60px;
-  margin-left: 20%;
+  margin-left: 25%;
 }
 
-.link {
-  margin-left: 10%;
-}
 a:hover {
   color: #80e8a9;
 }
@@ -29,4 +26,21 @@ ol {
   color: #a9c4b6;
   text-align: center;
 
+}
+h2 {
+  color: #126634;
+  line-height: 10px;
+  text-decoration: underline;
+}
+
+h3, h4 {
+  color: #8fab8e;
+  font-style: italic;
+}
+
+p {
+  color: #b5b5b5;
+  text-align: center;
+  border: 2px dashed #7ea383;
+  padding: 10px;
 }
