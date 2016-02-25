@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: #368057;
+  border-bottom: 2px solid #b1d7c6;
+  font-style: italic;
+}
+body {
+  background-color: #303030;
+}
+a {
+  color: #2f7c42;
+}
+a:hover {
+  color: #80e8a9;
+}
